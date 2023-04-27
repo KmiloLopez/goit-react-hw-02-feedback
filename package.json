@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.9",
     "web-vitals": "^2.1.4",
-    "homepage": "https://KmiloLopez.github.io/goit-react-hw-02-feedback"
+    "homepage": "https://kmilolopez.github.io/goit-react-hw-02-feedback"
   },
   "scripts": {
     "start": "react-scripts start",
